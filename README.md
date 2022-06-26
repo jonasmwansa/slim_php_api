@@ -8,7 +8,7 @@ A publishing house wants to create a web app to manage their content (publishing
 -- An endpoint to show all published articles <br />
 -- An endpoint to retrieve just a single article
 
-below is a documentation for the api __
+below is a documentation for the api <br/>
 
 [documentation here ](https://documenter.getpostman.com/view/21359265/UzBnqmD2)
 
